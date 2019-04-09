@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1063531344956",
+    "firebase_url": "https://csci490-lab07-purtell.firebaseio.com",
+    "project_id": "csci490-lab07-purtell",
+    "storage_bucket": "csci490-lab07-purtell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063531344956:android:a0100fdfe36c9fec",
+        "android_client_info": {
+          "package_name": "com.austin.lab_07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063531344956-aomv828cgaggfnhc4sae4gk7q3tkshgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.austin.lab_07",
+            "certificate_hash": "158a5b7b3058f1945baa61f35eb0bce0ce67e353"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaKUH27aeA5vQyh0lkaFaNKT_jM2D9aUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063531344956-erkeebt9rc55k0arlc9jqvp2kasqph1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
